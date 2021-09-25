@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceRoot": "./src/",
+        "rootDir": "./src/",
+        "module": "commonjs",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
