@@ -6,7 +6,8 @@
         "sourceRoot": "./src/",
         "rootDir": "./src/",
         "module": "commonjs",
-        "sourceMap": true
+        "sourceMap": true,
+        "noLib": false
     },
     "exclude": [
         "node_modules"
